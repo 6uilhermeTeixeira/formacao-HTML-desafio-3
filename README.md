@@ -1,4 +1,4 @@
-# FormacaoHTMLDesafio3
+# Formacao HTML Desafio 3
 
 Entrega do Desafio de Criar uma Página HTML Focada em Semântica e Acessibilidade no Módulo 3 da Formação HTML Web Developer promovido pela DIO
 
